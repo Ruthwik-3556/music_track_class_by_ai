@@ -8,39 +8,39 @@ The pipeline includes data preprocessing, feature engineering, model training, a
  ML Pipeline Architecture
 Raw Dataset
    │
-   ▼
+   
 Data Cleaning
 (Remove duplicates, handle missing values)
    │
-   ▼
+   
 Exploratory Data Analysis (EDA)
 (Distribution plots, correlations, pairplots)
    │
-   ▼
+   
 Feature Engineering
 (Target Encoding, Frequency Encoding)
    │
-   ▼
+   
 Feature Scaling
 (StandardScaler)
    │
-   ▼
+   
 Class Imbalance Handling
 (SMOTE Oversampling)
    │
-   ▼
+   
 Model Training
 (Random Forest, SVM, Neural Network, etc.)
    │
-   ▼
+   
 Model Evaluation
 (Accuracy, Precision, Recall, F1)
    │
-   ▼
+   
 Best Model Selection
 (Random Forest)
    │
-   ▼
+   
 Prediction Generation
 (submission.csv)
  Dataset
